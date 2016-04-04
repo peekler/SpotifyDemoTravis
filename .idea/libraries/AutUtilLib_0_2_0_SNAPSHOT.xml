@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="AutUtilLib-0.2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app-tasklib/build/intermediates/exploded-aar/hu.aut.utillib/AutUtilLib/0.2.0-SNAPSHOT/res" />
+      <root url="jar://$PROJECT_DIR$/app-tasklib/build/intermediates/exploded-aar/hu.aut.utillib/AutUtilLib/0.2.0-SNAPSHOT/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hu.aut.utillib/AutUtilLib/0.2.0-SNAPSHOT/c517a222c10cd9608b29d423602d19b67967c1b7/AutUtilLib-0.2.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

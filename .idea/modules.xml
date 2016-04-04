@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpotifyDemoTravis.iml" filepath="$PROJECT_DIR$/SpotifyDemoTravis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-mvp/app-mvp.iml" filepath="$PROJECT_DIR$/app-mvp/app-mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-mvp-dagger/app-mvp-dagger.iml" filepath="$PROJECT_DIR$/app-mvp-dagger/app-mvp-dagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-tasklib/app-tasklib.iml" filepath="$PROJECT_DIR$/app-tasklib/app-tasklib.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-2.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app-tasklib/build/intermediates/exploded-aar/hu.aut.task/library/2.1-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app-tasklib/build/intermediates/exploded-aar/hu.aut.task/library/2.1-SNAPSHOT/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hu.aut.task/library/2.1-SNAPSHOT/6ddd72f3c548a32574a1e025e6dd015f54be62e3/library-2.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
